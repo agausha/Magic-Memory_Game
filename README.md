@@ -1,10 +1,14 @@
 # Magic memory game
 
+## Preview link
+
+[https://magicmemorygamesite.netlify.app/]
+
 In the project directory, you can run:
 
 ### `npm install`
 
-To install dependencies for the app
+To install dependencies packages for the app
 
 ### `npm start`
 
